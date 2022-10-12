@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Multi-agent systems and Robotics
+- 🔭 &nbsp; I’m currently learning Multi-agent system and Robotics
 - 🎓 &nbsp; Studying Computer Science and computer programming 
 - ✍️ &nbsp; I am interested in Contorl theory, Multi-agent system.
 - ☕ &nbsp; Feel free to rearch me at yyang52@uncc.edu
