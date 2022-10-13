@@ -18,7 +18,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yupengyanguncc&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
