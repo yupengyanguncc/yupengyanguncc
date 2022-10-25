@@ -6,7 +6,7 @@
 - 🔭 &nbsp; I’m currently learning Multi-agent system and Robotics
 - 🎓 &nbsp; Studying Computer Science and computer programming 
 - ✍️ &nbsp; I am interested in Contorl theory, Multi-agent system.
-- ☕ &nbsp; Feel free to rearch me at yyang52@uncc.edu
+- ☕ &nbsp; Feel free to reach me at yyang52@uncc.edu
 
 <h3>🛠 Tech Stack</h3>
 
