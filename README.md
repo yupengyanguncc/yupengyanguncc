@@ -29,6 +29,19 @@
 &nbsp; <a href="yyang52@uncc.edu.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-https://github.com/yupengyanguncc/yupengyanguncc/blob/output/github-snake.gif?raw=true
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/yupengyanguncc/yupengyanguncc/42fa4225108057865496bcd83416bff5abcbe861/github-snake.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/yupengyanguncc/yupengyanguncc/42fa4225108057865496bcd83416bff5abcbe861/github-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/yupengyanguncc/yupengyanguncc/42fa4225108057865496bcd83416bff5abcbe861/github-snake.svg"
+  />
+</picture>
 
 ⭐️ From [devSouvik](https://github.com/devSouvik)
