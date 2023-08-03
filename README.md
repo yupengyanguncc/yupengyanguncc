@@ -32,15 +32,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/yupengyanguncc/yupengyanguncc/42fa4225108057865496bcd83416bff5abcbe861/github-snake.svg"
+    srcset="https://raw.githubusercontent.com/yupengyanguncc/yupengyanguncc/8757738fc7bb0d2910ce67cb3c722a88a3080e3f/github-contribution-grid-snake.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/yupengyanguncc/yupengyanguncc/42fa4225108057865496bcd83416bff5abcbe861/github-snake.svg"
+    srcset="https://raw.githubusercontent.com/yupengyanguncc/yupengyanguncc/8757738fc7bb0d2910ce67cb3c722a88a3080e3f/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/yupengyanguncc/yupengyanguncc/42fa4225108057865496bcd83416bff5abcbe861/github-snake.svg"
+    src="https://raw.githubusercontent.com/yupengyanguncc/yupengyanguncc/8757738fc7bb0d2910ce67cb3c722a88a3080e3f/github-contribution-grid-snake.svg"
   />
 </picture>
 
